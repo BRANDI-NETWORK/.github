@@ -1,7 +1,7 @@
 
-# 🌟 BRANDI Platform
+# 🌟 BRANDI
 
-Welcome to the BRANDI platform! Our mission is to empower small and medium-sized businesses through a comprehensive digital solution that enhances operations, marketing, and growth.
+Welcome to BRANDI! Our mission is to empower small and medium-sized businesses through a comprehensive digital solution that enhances operations, marketing, and growth.
 
 ## 🚀 Features
 
