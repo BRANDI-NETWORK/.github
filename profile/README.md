@@ -10,7 +10,6 @@ Welcome to the BRANDI platform! Our mission is to empower small and medium-sized
 Streamline your operations with tools for:
 - Product and service management
 - Financial tracking and invoicing
-- Inventory management
 - Order processing
 
 ### 2. **Marketing Automation**
@@ -62,4 +61,4 @@ We welcome contributions and feedback from the community! Here’s how you can g
 - **Submit Pull Requests**: Contribute to our development.
 
 ## 🌐 Connect with Us
-For inquiries or support, please reach out to us at [contact@brandi.com.tn] or visit our website [www.brandi.com.tn].
+For inquiries or support, please reach out to us at [support@brandi.com.tn] or visit our website [www.brandi.com.tn].
