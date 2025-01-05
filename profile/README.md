@@ -1,4 +1,3 @@
-
 # 🌟 BRANDI
 
 Welcome to BRANDI! Our mission is to empower small and medium-sized businesses through a comprehensive digital solution that enhances operations, marketing, and growth.
@@ -10,7 +9,7 @@ Welcome to BRANDI! Our mission is to empower small and medium-sized businesses t
 Streamline your operations with tools for:
 - Product and service management
 - Financial tracking and invoicing
-- Order processing
+- Subscription management
 
 ### 2. **Marketing Automation**
 
@@ -61,4 +60,4 @@ We welcome contributions and feedback from the community! Here’s how you can g
 - **Submit Pull Requests**: Contribute to our development.
 
 ## 🌐 Connect with Us
-For inquiries or support, please reach out to us at [support@brandi.com.tn] or visit our website [www.brandi.com.tn].
+For inquiries or support, please reach out to us at [support@brandi.network] or visit our website [www.brandi.network].
