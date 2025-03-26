@@ -70,7 +70,7 @@ Join the Brandi Network community and be part of something bigger:
 ## 🌐 Connect with Brandi Network
 
 We’re here to help you every step of the way:
-- **Email**: [hello@brandi.network](mailto:hello@brandi.network)  
+- **Email**: [support@brandi.network](mailto:hello@brandi.network)  
 - **Website**: [www.brandi.network](https://www.brandi.network)  
 - **Follow Us**: [LinkedIn](https://linkedin.com/company/brandi-network) | [Twitter](https://twitter.com/brandi_network)  
 
