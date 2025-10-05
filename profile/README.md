@@ -1,63 +1,73 @@
-## 💬 What Is Brandi?
-
-**Brandi** is your AI business-building agent — built for entrepreneurs, creators, and experts who want to launch faster, design smarter, and grow with clarity.
-
-We’re building the interface between **ambition** and **execution**.
-
-Unlike traditional tools, Brandi designs full journeys:  
-from brand identity and user flows to real-time UI prototypes, tutorials, and integrations — all personalized, all live, all branded.
-
----
-
-## 🧩 What You’ll Find Here
-
-This GitHub organization hosts Brandi’s core platform and its modular ecosystem:
-
-- `brandi-agent`: The intelligence behind user prompt interpretation and journey orchestration  
-- `journey-builder`: Tools for mapping and launching guided UX flows  
-- `brandi-marketplace`: Templates, blocks, and plug-in assets  
-- `agent-ui`: The live prototyping and branded interface engine  
-- `tutorial-engine`: Curated, contextual learning paths for users
-
-More repos coming soon — including our open data models and API builder.
+<div align="center">
+  
+  <h1>BRANDI Network</h1>
+  
+  <strong>Empowering creators, merchants, and communities through social commerce</strong>
+  
+  <br/>
+  <br/>
+  
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-Social%20Commerce-6a5acd" />
+  <img alt="Status" src="https://img.shields.io/badge/Status-Live%20Platform-27ae60" />
+  <img alt="Founded" src="https://img.shields.io/badge/Founded-2025-34495e" />
+  
+</div>
 
 ---
 
-## 🌍 Why It Matters
+## Our Mission
 
-> Entrepreneurs don’t need another AI chatbot.  
-> They need a **strategy engine** that speaks their language.
+**BRANDI Network** is revolutionizing how creators and merchants connect with their audiences through social commerce. We believe that commerce should be social, engaging, and community-driven.
 
-Most AI systems are built for engineers. Brandi is built for business builders — solopreneurs, coaches, freelancers, and small brands who want speed and structure without writing code.
+## What We Do
 
-We’re closing the gap between idea and visibility.
+We provide a comprehensive platform that enables:
 
----
+- **Creators** to monetize their content and build sustainable businesses
+- **Merchants** to create social-first shopping experiences
+- **Communities** to discover and support the brands they love
+- **Brands** to build authentic relationships with their customers
 
-## 💡 Brandi Highlights
+## Our Vision
 
-- 🧠 Understands your journey — not just your question  
-- 🎯 Connects with APIs, content, and platforms to execute  
-- ✨ Produces interfaces, not just answers  
-- 🏗 Built for personalization, modularity, and scale  
-- 🔓 Embraces open, decentralized data use
+To become the leading social commerce platform where every creator can thrive, every merchant can grow, and every community can discover amazing products through authentic connections.
 
----
+## Why Choose Brandi Network?
 
-## 📈 Roadmap (2025)
+### 🌟 **Social-First Approach**
+We put community and engagement at the heart of commerce, not as an afterthought.
 
-- **Q2** — Beta Launch (Web + LinkedIn)  
-- **Q3** — Open data layer, API builder, global cohort  
-- **Q4** — Marketplace & white-labeled AI agents for partners
+### 🛍️ **Complete Commerce Solution**
+From product discovery to checkout, subscriptions to analytics - everything you need in one platform.
 
----
+### 🎯 **Creator-Centric**
+Built by creators, for creators. We understand the unique challenges of content monetization.
 
-## 🤝 Get Involved
+### 🌍 **Global Reach**
+Multi-language support and international payment processing to serve global communities.
 
-We welcome early collaborators, testers, and forward-thinking partners.
+### 🔒 **Enterprise-Grade Security**
+Your data and transactions are protected with bank-level security and compliance.
 
-- 🌐 Website: [https://brandi.network](https://brandi.network)  
-- 📧 Email: contact@brandi.network  
-- 🧭 LinkedIn: [Brandi Network](https://www.linkedin.com/company/brandi-network)
+## Our Values
 
-> _Brandi helps you build what matters — with the clarity of AI and the power of design._
+- **Authenticity** - Real connections, real communities, real commerce
+- **Innovation** - Constantly pushing the boundaries of social commerce
+- **Empowerment** - Giving creators and merchants the tools to succeed
+- **Community** - Building bridges between creators, merchants, and audiences
+- **Transparency** - Open, honest, and fair practices in everything we do
+
+## Join Our Community
+
+Whether you're a creator looking to monetize your content, a merchant seeking to build social commerce experiences, or a developer interested in our platform - we'd love to connect with you.
+
+## Contact Us
+
+- **Website:** [brandi.network](https://brandi.network)
+- **Email:** mahjoubiwael@brandi.network
+- **Location:** Tunis, Tunisia
+- **Founder:** Wael Mahjoubi
+
+<div align="center">
+  <sub>© 2025 Brandi Network. Empowering the future of social commerce.</sub>
+</div>
